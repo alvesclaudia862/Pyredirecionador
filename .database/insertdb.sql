@@ -7,3 +7,12 @@ INSERT INTO redir (
     'https://monica.im',
     'monica'
 );
+
+
+
+
+
+
+
+
+
